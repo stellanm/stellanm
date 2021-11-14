@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @stellanm
-- 👀 I’m interested in causal inference using observational data and experimentation
+- 👋 Hi, I’m Stella McMullen
+- 👀 I’m interested in causal inference using observational data, experimentation, machine learning, and all things data science 
 - 🏡 I'm an economist at Zillow specializing in causal inference
 - 👨‍👩‍👧‍👦 In my spare time I research fertility policy - check out my work! 🗣
 - 🌱 I’m currently brushing up on SQL and always working to improve my PySpark and Python
